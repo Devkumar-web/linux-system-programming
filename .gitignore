@@ -1,0 +1,15 @@
+# Compiled executables
+*.out
+*.o
+
+# Executables without extension
+soft_link
+hard_link
+fifo
+program
+
+# Temporary files
+*.tmp
+
+# OS files
+.DS_Store
